@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bake It!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="ingredients_widget_header">Ingredients</string>
+    <string name="add_to_widget_button_text">Add to widget</string>
+    <string name="noNetworkToastText">Please connect to a valid network</string>
+    <string name="addedWidgetToast">Ingredients added to Widget</string>
+    <string name="ingredients_tv">Ingredients</string>
+    <string name="steps_tv">Steps</string>
+    <string name="next_step_button">Next Step</string>
+    <string name="add_ingredients_to_bake_from_inside_the_app">Add Ingredients to bake from inside the app, Click here to get started!</string>
+    <string name="noMoreStepsAvailable">No More steps available for this Recipe</string>
+</resources>

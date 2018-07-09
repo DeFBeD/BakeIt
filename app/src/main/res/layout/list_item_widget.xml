@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/parentView"
+              android:orientation="vertical"
+              android:padding="@dimen/widget_padding"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        tools:text="Title"
+        android:textSize="@dimen/widget_list_text_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/submeasure"
+        tools:text="Sub Title"
+        android:textSize="@dimen/widget_list_text_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/subQuantity"
+        tools:text="Sub Title"
+        android:textColor="#696969"
+        android:textSize="@dimen/widget_list_text_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

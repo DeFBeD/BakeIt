@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noNetworkToastText">Please connect to a valid network</string>
+    <string name="addedWidgetToast">Ingredients added to Widget</string>
+    <string name="ingredients_tv">Ingredients</string>
+    <string name="steps_tv">Steps</string>
+    <string name="next_step_button">Next Step</string>
+    <string name="add_ingredients_to_bake_from_inside_the_app">Add Ingredients to bake from inside the app, Click here to get started!</string>
+    <string name="noMoreStepsAvailable">No More steps available for this Recipe</string>
+</resources>
