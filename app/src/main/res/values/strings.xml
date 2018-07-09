@@ -14,4 +14,6 @@
     <string name="next_step_button">Next Step</string>
     <string name="add_ingredients_to_bake_from_inside_the_app">Add Ingredients to bake from inside the app, Click here to get started!</string>
     <string name="noMoreStepsAvailable">No More steps available for this Recipe</string>
+
+    <string name="noMore">testing</string>
 </resources>
